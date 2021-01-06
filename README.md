@@ -3,4 +3,4 @@
 #
 # This project was made to test the connection between an Oracle database (any version) and the programmed project by itself.
 # 
-# How is it a merely demonstrative project it's very basic for course's purposes.
+# How is it a merely demonstrative project it's pretty much basic for course's purposes.
