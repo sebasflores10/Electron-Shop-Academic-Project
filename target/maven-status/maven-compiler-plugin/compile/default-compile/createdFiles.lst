@@ -1,0 +1,13 @@
+Modelo\CodigoPostal.class
+Modelo\Productos.class
+Gestion\ControlImg.class
+Modelo\DataLink.class
+Modelo\Empleado.class
+Modelo\Proveedor.class
+Modelo\Categoria.class
+Data\Conexion.class
+Modelo\Cliente.class
+Modelo\Tienda.class
+Gestion\UsuarioController.class
+Gestion\Controlador.class
+Modelo\Pedidos.class
